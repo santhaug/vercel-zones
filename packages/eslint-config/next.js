@@ -30,6 +30,8 @@ module.exports = {
     // Ignore dotfiles
     ".*.js",
     "node_modules/",
+    'postcss.config.js',
+    'postcss.config.cjs',
   ],
   overrides: [{ files: ["*.js?(x)", "*.ts?(x)"] }],
 };

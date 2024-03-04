@@ -7,11 +7,11 @@ const page = () => {
       <p
         className='text-2xl font-bold'
       >
-        Web
+        Landing
       </p>
       <Image
-        src='/app/web.svg'
-        alt='web'
+        src='/landing.svg'
+        alt='landing'
         width={500}
         height={500}
       />

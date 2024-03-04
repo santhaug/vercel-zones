@@ -5,13 +5,13 @@ const page = () => {
   return (
     <div>
       <p
-        className='text-2xl font-bold'
+        className='text-4xl font-bold text-red-500'
       >
-        Web
+        Auth
       </p>
       <Image
-        src='/app/web.svg'
-        alt='web'
+        src='/auth/auth.svg'
+        alt='auth'
         width={500}
         height={500}
       />
